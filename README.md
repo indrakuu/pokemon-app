@@ -1,24 +1,23 @@
 # pokemon-app
 
+Cara menggunakan pokemon-app
+
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile dan Hot Reload untuk tahap Development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compile dan minifikasi untuk Production
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Screenshot
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+###  Link Demo
+https://www.duniapoke.duniadev.com/
