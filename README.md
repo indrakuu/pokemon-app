@@ -1,5 +1,5 @@
 # pokemon-app
-
+PokeApp dibuat dengan menggunakan framework VueJs yang sepenuhnya untuk FrontEnd Website
 Cara menggunakan pokemon-app
 
 ## Project setup
